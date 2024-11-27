@@ -1,8 +1,8 @@
 {
-    "about": "I'm Dan G. <br> Cloud Engineer, Hobbies include motorcycle riding, videogames, impulsive travel, and dognapping (if you see a dog with me I've stolen it).",
+    "about": "<h2>I'm Dan G.</h2><br> Cloud Engineer, Gamer, <br> Hobbies include: <br>motorcycle riding, videogames, impulsive travel, and dognapping (if you see a dog with me I've stolen it).",
     "favicon": "assets/favicon.svg",
     "language": "english",
-    "name": "Hi,",
+    "name": "<h1>Hi,</h1>",
     "picture": "assets/logo.svg",
     "title": "Dan G"
 }
