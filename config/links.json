@@ -1,17 +1,17 @@
 [
     {
-        "url": "https://instagram.com",
+        "url": "https://instagram.com/dangcorona",
         "text": "Instagram",
         "icon": "fa-brands fa-instagram fa-lg"
     },
     {
-        "url": "https://youtube.com",
-        "text": "YouTube",
-        "icon": "fa-brands fa-youtube fa-lg"
-    },
-    {
-        "url": "https://bsky.app",
+        "url": "https://bsky.app/profile/dangim.bsky.social",
         "text": "Bluesky",
         "icon": "fa-brands fa-bluesky"
-    }
+    },
+    {
+        "url": "https://www.linkedin.com/in/dan-c-7209038b/",
+        "text": "LinkedIn",
+        "icon": "fa-brands fa-linkedin fa-lg"
+    },
 ]
