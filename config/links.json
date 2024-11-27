@@ -1,18 +1,13 @@
 [
     {
-        "url": "https://github.com",
-        "text": "GitHub",
-        "icon": "fa-brands fa-github fa-lg"
+        "url": "https://instagram.com",
+        "text": "Instagram",
+        "icon": "fa-brands fa-instagram fa-lg"
     },
     {
         "url": "https://youtube.com",
         "text": "YouTube",
         "icon": "fa-brands fa-youtube fa-lg"
-    },
-    {
-        "url": "https://instagram.com",
-        "text": "Instagram",
-        "icon": "fa-brands fa-instagram fa-lg"
     },
     {
         "url": "https://bsky.app",
