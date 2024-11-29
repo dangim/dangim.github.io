@@ -1,5 +1,5 @@
 {
-    "about": "<h2>I'm Dan G.</h2><br> Cloud Engineer <br> Hobbies include but not limited to: <br>Motorcycle riding, gaming, impulsive travel, <br> and dognapping (if you see a dog with me I've stolen it).",
+    "about": "<h2>I'm Dan G.</h2><br> <ul> <li> Cloud Engineer </li> <li> Motorcycle rider </li> <li> Gamer </li> <li> Impulsive traveler </li> <li> Dognapper (if you see a dog with me I've stolen it). </li> </ul>",
     "favicon": "assets/favicon.svg",
     "language": "english",
     "name": "<h1>Hi,</h1>",
