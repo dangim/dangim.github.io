@@ -20,7 +20,7 @@ const creditstranslations = {
     czech: `Vytvořeno s ${project}`,
     danish: `Oprettet med ${project}`,
     dutch: `Gemaakt met ${project}`,
-    english: `Created with ${project}`,
+    english: `Built using ${project}`,
     estonian: `Loodud ${project} abil`,
     filipino: `Nilikha gamit ang ${project}`,
     finnish: `Luotu ${project} avulla`,
